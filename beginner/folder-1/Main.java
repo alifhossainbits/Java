@@ -20,8 +20,22 @@
 public class Main {
     public static void main(String[] args){
 
-        // Swap Two Variable
 
+        ///// User Input ///
+
+
+        //////// Swap Two Variable /////
+        // String x = "water";
+        // String y = "red-bull";
+        // String temp;
+
+        // temp = x;
+        // x = y;
+        // y = temp;
+
+        // System.out.println(temp);
+        // System.out.println(x);
+        // System.out.println(y);
 
 
         // System.out.println("Hello world");
