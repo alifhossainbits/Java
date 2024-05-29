@@ -3,16 +3,36 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
+        // 1009 Salary with bonus
+
+
+
+        // 1008 Salary
+        // Scanner input = new Scanner(System.in);
+
+        // int id = input.nextInt();
+        // input.nextLine();
+        // int workedHours = input.nextInt();
+        // double hourlyWage = input.nextDouble();
+
+        // double salary = workedHours * hourlyWage;
+
+        // System.out.println("NUMBER = "+ id);
+        // System.out.printf("SALARY = U$ %.2f\n", salary);
+
+
+
+
         // 1007 Difference
-        Scanner input = new Scanner(System.in);
-        int A = input.nextInt();
-        int B = input.nextInt();
-        int C = input.nextInt();
-        int D = input.nextInt();
+        // Scanner input = new Scanner(System.in);
+        // int A = input.nextInt();
+        // int B = input.nextInt();
+        // int C = input.nextInt();
+        // int D = input.nextInt();
 
-        int DIFERENCA = (A * B - C * D);
+        // int DIFERENCA = (A * B - C * D);
 
-        System.out.println("DIFERENCA = " + DIFERENCA );
+        // System.out.println("DIFERENCA = " + DIFERENCA );
 
 
         // 1006 Average 2
