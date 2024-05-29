@@ -3,6 +3,18 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
+        // 1007 Difference
+        Scanner input = new Scanner(System.in);
+        int A = input.nextInt();
+        int B = input.nextInt();
+        int C = input.nextInt();
+        int D = input.nextInt();
+
+        int DIFERENCA = (A * B - C * D);
+
+        System.out.println("DIFERENCA = " + DIFERENCA );
+
+
         // 1006 Average 2
         // Scanner input = new Scanner(System.in);
         // double A = input.nextDouble();
